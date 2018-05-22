@@ -58,15 +58,13 @@ a {
 #main {
   padding: 50px; }
 
-  h1{
-    font-size: 30px
-    color: #16C1Df;
-  }
-p.sub{
-  font-size: 10px
-  margin-left: 400px;
-}
+h1{font-size: 80px
+color: #293042;}
+
+p.sub{font-size: :10px
+  margin-left: 300px;}
+
 
 h2{
-  font-size: 12px;
+  font-size: 30px;
 }
