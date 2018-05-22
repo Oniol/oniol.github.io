@@ -62,7 +62,11 @@ a {
     font-size: 30px
     color: #16C1Df;
   }
-p.clickclickBlei{
+p.sub{
   font-size: 10px
   margin-left: 400px;
+}
+
+h2{
+  font-size: 12px;
 }
