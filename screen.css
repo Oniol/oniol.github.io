@@ -59,8 +59,9 @@ a {
   padding: 50px; }
 
 #subt{text-align: center;
-font-size: 10px
-font-family:fantasy;}
+font-size: 10px}
+
+h1{font-family: "verdana", sans-serif}
 
 h2{
   font-size: 30px;
