@@ -66,3 +66,7 @@ h2{
 }
 
 h4{ font: 40px courier,  sans-serif;}
+
+img{display: block;
+margin-left: auto;
+margin-right: auto;}
