@@ -58,6 +58,9 @@ a {
 #main {
   padding: 50px; }
 
+#subt{text-align: center;
+font-size: 20px}
+
 h2{
   font-size: 30px;
 }
